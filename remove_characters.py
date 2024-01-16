@@ -19,4 +19,6 @@ def remove_common_characters(str1, str2):
 # def remove_common_characters(string1, string2):
 #     return "".join([char for char in string1 if char not in string2])
 
-print(remove_common_characters("Amit", "Ameet"))
+str1 = input("Enter the first string: ")
+str2 = input("Enter the second string: ")
+print("String after removing characters:", remove_common_characters(str1, str2))
