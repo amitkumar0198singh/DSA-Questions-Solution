@@ -1,0 +1,78 @@
+#1 Count Pairs with Given Sum
+Given an array of n integers, and an integer K, find the number of pairs of element 
+in the array whose sum is equal to K.
+Topic: Hashmap
+Level: Easy
+________________________________________________________________________________________________
+
+
+#2 Remove Character
+Given two strings string1 and string2, remove those characters from first string(string1) 
+which are present in second string(string2).
+Topic: Array
+Level: Easy
+________________________________________________________________________________________________
+
+
+#3 Buy Stock2 
+You are given the prices of stock for n number of days.Every ith day tells the price of 
+the stocl on that day. Find the maximum profit that you can make by buying and selling 
+stock any number of times.
+Topic: Array
+Level: Medium
+________________________________________________________________________________________________
+
+
+#4 Mirror Tree
+Given a Binary Tree, convert it into its mirror.
+Topic: Tree
+Level:Easy
+________________________________________________________________________________________________
+
+
+#5 Lowest Common Ancestor in a Binary Tree
+Given a Binary Tree with all unique values and two nodes value, n1 and n2. The task is
+to find the lowest common ancestor of the given two nodes.
+Topic: Tree
+Level: Medium
+________________________________________________________________________________________________
+
+
+#6 Search in a Matrix
+Given a matrix mat[][] of size N x M, where every row and column is sorted in increasing
+order, and a number X is given. The task is to find whether element X is present in the 
+matrix or not.
+Topic: Binary Search
+Level: Easy
+________________________________________________________________________________________________
+
+
+#7 K Largest Elements
+Given an array of N positive integer, print k largest elements from the array.
+Topic: Priority Queue
+Level: Hard
+________________________________________________________________________________________________
+
+
+#8 Right View of Binary Tree
+Given in Binary Tree, find Right view of it, Right view of Binary Treeis set of nodes
+visible when tree is viewed from right side.
+Topic: Tree
+Level: Easy
+________________________________________________________________________________________________
+
+
+#9 Triangle Path Sum
+Given a triangle array, return the minimum path sum to reach from top to bottom.
+For each step, you may move to an adjacent number of the row below.
+Topic: Dynamic Programming
+Level: Medium
+________________________________________________________________________________________________
+
+
+#10 Nth Fibonacci Number 
+Given a positive integer n, find the nth Fibonacci number. Since the answer can be very
+large, return the answer modulo 1000000007
+Topic: Dynamic Programming
+Level:Easy
+________________________________________________________________________________________________
